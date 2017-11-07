@@ -8,10 +8,10 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 _Download link coming soon_
 
 ## TouchWiz 7.0 - Nougat
-★ **Recommended Choice**
-**Kernel Name**: pos16-mod
-**Authors**: Noxx (base), Aelle Stetson (mod)
-**Link**: [Nog33k telegram group](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw)
+★ **Recommended Choice** <br/>
+**Kernel Name**: pos16-mod <br/>
+**Authors**: Noxx (base), Aelle Stetson (mod) <br/>
+**Link**: [Nog33k telegram group](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
 
 ## AOSP 7.1.2 - Nougat
 
