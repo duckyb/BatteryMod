@@ -15,8 +15,8 @@ The battery and tools are pretty cheap, you should be able to get everything for
 7. **How can I calibrate my battery?**
 To calibrate the battery, simply discharge it until the phone shuts down. Then charge it to 100% without turning it on. Repeat this process 1-2 times.
 8. **My battery is still not calibrated! What can I do?** <br/>
-Check the how to [reset your battery stats](/resetstats.md) page.
+Check the how to [reset your battery stats](/statsreset.md) page.
 9. **Is removing the NFC/Wirelss Charge pad necessary?** <br/>
 Absolutely not. The NFC/WC pad is only 0.33 ~ 0.5 millimeters thick, the benefit you gain by removing it is so little that it's irrelevant.
 10. **I want to go back to the stock kernel!** <br/>
-Stock Kernel (FLAT) Download: _Direct link coming soon_
+[Download Page](/links.md)
