@@ -1,6 +1,6 @@
 # Kernel download Links
 The default samsung kernel will not support the bigger battery, you will need to flash a custom kernel made for this mod. <br/>
-> What happens if I don't change my kernel?
+> What happens if I don't change my kernel? <br/>
 Nothing dangerous, but your phone will not charge the battery to it's full capacity, instead, it will charge it as if it was a stock 2550mAh battery.
 
 ## Stock Kernels <br/>
