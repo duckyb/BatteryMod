@@ -26,6 +26,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#magiskbeta` XDA Thread of Magisk's beta releases.
 
 ## Tips & Tricks
+- `#calibration` classic battery calibration method.
 - `#statsbin` short guide on resetting the battery stats.
 - `#terminalreset` resettings battery stats by terminal command.
 - `#hardstatsreset` long step-by-step guide on resetting your battery stats.
