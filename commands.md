@@ -12,11 +12,11 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `guidecommands` This page!
 
 ## File downloads
-- `#martitos3`
-- `#martitos2`
-- `#kiboi`
-- `#kiboiaosp`
-- `#lkernel`
+- `#martitos3` Martitos 3.1 Beta kernel
+- `#martitos2` Martitos 2.1 kernel
+- `#kiboi` Kiboi 2.7.1 for touchwiz
+- `#kiboiaosp` Kiboi 3.0 for revolution remix (aosp) roms
+- `#lkernel` LKernel by Andrea
 - `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
 - `#odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
 - `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
