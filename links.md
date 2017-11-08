@@ -6,10 +6,10 @@ Nothing dangerous, but your phone will not charge the battery to it's full capac
 
 ## Stock Kernels <br/>
 This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
-_Download link coming soon_
+⭐ _Download link coming soon_
 
 ## TouchWiz 7.0 - Nougat
-🥇 **Recommended Choice** ⭐ <br/>
+🥇 **Recommended Choice** <br/>
 **Kernel Name**: Kiboi Divine Battery Kernel <br/>
 **Author**: Kiboisr <br/>
 **Link**: Type `#Kiboi` in our group to receive the file. <br/>
