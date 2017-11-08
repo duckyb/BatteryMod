@@ -31,6 +31,6 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#hardstatsreset` long step-by-step guide on resetting your battery stats.
 - `#securestorage` quick guide on fixing device forgetting wifi passwords.
 
-## eBay links
+## Shop links
 - `#ebayitaly` italian ebay link
 - *Other countries coming soon*
