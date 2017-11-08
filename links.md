@@ -12,12 +12,24 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 🥇 **Recommended Choice** <br/>
 **Kernel Name**: Kiboi Divine Battery Kernel <br/>
 **Author**: Kiboisr <br/>
-**Link**: Type `#Kiboi` in our group to receive the file. <br/>
+**Download**: Type `#Kiboi` in our group to receive the file. <br/>
+
+🥇 **Recommended Choice** <br/>
+**Kernel Name**: Martitos Kernel <br/>
+**Author**: Antonio Martitos <br/>
+**Download**: Type `#martitos3` in our group to receive Martitos3.1, type `#martitos2` to receive Martitos2.1 <br/>
 
 **Kernel Name**: pos16-mod <br/>
 **Authors**: Noxx (base), Aelle Stetson (mod) <br/>
-**Link**: [Telegram group invite](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
+**Download**: [Telegram group invite](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
 
+**Kernel Name**: Aldeon Kernel <br/>
+**Author**: Minealex2244 <br/>
+**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
+
+**Kernel Name**: L-Kernel <br/>
+**Author**: Andrea aka @LollosoSi <br/>
+**Download**: Type `#lkernel` in our group to receive the file. <br/>
 
 ## AOSP 7.1.2 - Nougat
 
