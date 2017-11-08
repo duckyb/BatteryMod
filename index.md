@@ -9,5 +9,6 @@ You will go from your 2550mAh battery to a 3600mAh battery, this is a 41% increa
 # Main Sections
 - [FAQ](/faq.md)
 - [Kernel Links](/links.md)
+- [Tips & Tricks](/statsreset.md)
 - [Chat Commands](/commands.md)
 - [Gallery](/gallery.md)
