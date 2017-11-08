@@ -31,3 +31,10 @@ This method is useful for when the previous methods don't seem to work.
 11. Charge your phone while powered as usual until it shows 100% charge.
 12. Make sure that during discharging you don't reboot your phone! Or else the system will create a new `batterystats.bin` file or if already made, it will get corrupted and you will have to start again from first step!
 13. Repeat steps 11 and 12 until the battery behaves normally.
+
+# Fix device forgetting Wifi networks
+
+1. With any `build.prop` editor or your root file manager edit your `build.prop` and set `ro.securestorage.support = false`.
+2. Save `build.prop` and download fix zip file to sd card. (use `#fixwifi` command in the telegram chatroom)
+3. Reboot in recovery mode and flash that zip file.
+4. Reboot system
