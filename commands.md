@@ -8,7 +8,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#guidegallery` This guide's gallery page.
 - `#guidefaq` This guide's FAQ page.
 - `#guidelinks` This guide's download links page.
-- `#guidestips` This guide's Tips & Tricks page.
+- `#guidetips` This guide's Tips & Tricks page.
 - `guidecommands` This page!
 
 ## File downloads
