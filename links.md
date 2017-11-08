@@ -33,22 +33,31 @@ This kernel requires the **MTweaks** app to be installed, and the custom modules
 **Author**: Andrea aka @LollosoSi <br/>
 **Download**: Type `#lkernel` in our group to receive the file. <br/>
 
+**Name**: G-Kernel TW <br/>
+**Author**: Giuseppe aka @GiuGiu19 <br/>
+**Download**: [Telegram group invite](https://t.me/Gkernel) </br>
+⚠️**Warning**: This kernel is in development, S7edge battery support is **partial**. <br/>
+
+## AOSP 7.1.1 - Nougat
+
+🥇 **Recommended Choice** <br/>
 **Name**: G-Kernel <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
 **Download**: [Telegram group invite](https://t.me/Gkernel) </br>
-⚠️**Warning**: This kernel is in development, S7edge battery support is **partial**.
+**Notes**: Only use this kernel with G-ROM (by GiuGiu19) or other Revolution Remix based roms! <br/>
+⚠️**Warning**: This kernel is in development, S7edge battery support is **partial**. <br/>
 
-## AOSP 7.1.2 - Nougat
+**Name**: Kiboi Divine Battery Kernel - AOSP <br/>
+**Author**: Kiboisr <br/>
+**Download**: Type `#kiboiAOSP` in our group to receive the file. <br/>
+⚠️**Warning**: This kernel is **discontinued**! Flash at your own risk! Only supports Revolution Remix based roms! <br/>
 
-🥇 **Recommended Choice** <br/>
-**Name**: G-Kernel
-**Author**: Giuseppe aka #GiuGiu19
-**Download**: 
-
-Warning: This kernel is outdated ↓
-Kernel Name: Kiboi Divine Battery Kernel - AOSP
-Support: Resurrection Remix ROMs 7.1.1 - Flat & Edge
-Author: Kiboisr
-Link: https://t.me/joinchat/AAAAAEB5-z8YR81ie5rv7w
+**Name**: AldeLOS Kernel <br/>
+**Author**: Minealex2244 <br/>
+**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
 
 ## TouchWiz 6.0 - Marshmallow
+_No Kernels Available_
+
+## AOSP 8.0 - Oreo
+_No Kernels Available_
