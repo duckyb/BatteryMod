@@ -24,6 +24,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#fixwifi` You need this if your device forgets wifi passwords after reboot.
 - `#magiskstable` XDA Thread of Magisk's stable releases.
 - `#magiskbeta` XDA Thread of Magisk's beta releases.
+- `#luckypatcher` Download link for the latest version of Lucky Patcher (from Uptown)
 
 ## Tips & Tricks
 - `#calibration` classic battery calibration method.
