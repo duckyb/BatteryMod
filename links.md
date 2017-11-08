@@ -13,6 +13,8 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 **Kernel Name**: Kiboi Divine Battery Kernel <br/>
 **Author**: Kiboisr <br/>
 **Download**: Type `#Kiboi` in our group to receive the file. <br/>
+**Notes**: You must select Magisk in aroma or MTweaks will not be installed. </br> 
+This kernel requires the **MTweaks** app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly! </br>
 
 🥇 **Recommended Choice** <br/>
 **Kernel Name**: Martitos Kernel <br/>
