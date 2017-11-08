@@ -49,7 +49,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 **Name**: Kiboi Divine Battery Kernel - AOSP <br/>
 **Author**: Kiboisr <br/>
-**Download**: Type `#kiboiAOSP` in our group to receive the file. <br/>
+**Download**: Type `#kiboiaosp` in our group to receive the file. <br/>
 ⚠️**Warning**: This kernel is **discontinued**! Flash at your own risk! Only supports Revolution Remix based roms! <br/>
 
 **Name**: AldeLOS Kernel <br/>
