@@ -8,30 +8,29 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#guidegallery` This guide's gallery page.
 - `#guidefaq` This guide's FAQ page.
 - `#guidelinks` This guide's download links page.
-- `#guidestatsreset` This guide's battery stats reset page.
+- `#guidestips` This guide's Tips & Tricks page.
 - `guidecommands` This page!
-## File downloads
 
-List of custom commands:
-#linkITA
-#statsBin
-#martitos3
-#healthServiceTIBKP
-#compendium
-#fixWifi
-#kiboi
-#terminalReset
-#link
-#martitos2
-#kiboiAOSP
-#MagiskBeta
-#MagiskStable
-#seandroid
-#HardStatsReset
-#mtweaksTIBKP
-#andreamtweaks
-#guide
-#odexlite
-#lkernel
-#secureStorageFix
-#secureStorage
+## File downloads
+- `#martitos3`
+- `#martitos2`
+- `#kiboi`
+- `#kiboiaosp`
+- `#lkernel`
+- `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
+- `#odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
+- `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
+- `#healthservicetibkp` Titanium Backup of *Samsung Health Service*
+- `#fixwifi` You need this if your device forgets wifi passwords after reboot.
+- `#magiskstable` XDA Thread of Magisk's stable releases.
+- `#magiskbeta` XDA Thread of Magisk's beta releases.
+
+## Tips & Tricks
+- `#statsbin` short guide on resetting the battery stats.
+- `#terminalreset` resettings battery stats by terminal command.
+- `#hardstatsreset` long step-by-step guide on resetting your battery stats.
+- `#securestorage` quick guide on fixing device forgetting wifi passwords.
+
+## eBay links
+- `#ebayitaly` italian ebay link
+- *Other countries coming soon*
