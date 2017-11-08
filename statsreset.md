@@ -1,3 +1,7 @@
+# Calibrating your new battery
+To calibrate your battery, simply discharge your phone to 0% (until it shuts off), then charge it to 100% without turning it on.
+Repeat this step one or two times and everything should work.
+
 # Forcing a reset of the battery stats
 ## Method 1 (root explorer):
 1. Delete the file located in `data/system/batterystats.bin` <br/>
