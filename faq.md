@@ -18,8 +18,5 @@ To calibrate the battery, simply discharge it until the phone shuts down. Then c
 Check the how to [reset your battery stats](/statsreset.md) page.
 9. **Is removing the NFC/Wirelss Charge pad necessary?** <br/>
 Absolutely not. The NFC/WC pad is only 0.33 ~ 0.5 millimeters thick, the benefit you gain by removing it is so little that it's irrelevant.
-10. ** Will my phone's back glass close up?
-You can see with your own eyes:
-![closed g920f with g935f battery](https://i.imgur.com/2BMlCaa.jpg)
 10. **I want to go back to the stock kernel!** <br/>
 [Download Page](/links.md)
