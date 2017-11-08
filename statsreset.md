@@ -7,7 +7,7 @@
 1. Open Terminal Emulator
 2. Type:
   ```su
-  echo 1 > /sys/class/power_supply/battery/batt_reset_soc```
+echo 1 > /sys/class/power_supply/battery/batt_reset_soc```
 Nothing should happen inside the terminal window, but your stats should have been reset.
 ## Method 3 (HARD STATS RESET):
 This method is useful for when the previous methods don't seem to work.
