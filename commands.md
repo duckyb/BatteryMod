@@ -9,7 +9,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#guidefaq` This guide's FAQ page.
 - `#guidelinks` This guide's download links page.
 - `#guidetips` This guide's Tips & Tricks page.
-- `guidecommands` This page!
+- `#guidecommands` This page!
 
 ## File downloads
 - `#martitos3` Martitos 3.1 Beta kernel
