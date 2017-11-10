@@ -13,7 +13,7 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 **Name**: Kiboi Divine Battery Kernel <br/>
 **Author**: Kiboisr <br/>
 **Download**: Type `#kiboi` in our group to receive the file. <br/>
-**Notes**: You must select Magisk in aroma or MTweaks will not be installed.
+❕ **Notes**: You must select Magisk in aroma or MTweaks will not be installed.
 This kernel requires the *MTweaks* app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly!
 
 🥈 **Recommended Choice** <br/>
@@ -60,7 +60,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Name**: Aldexus Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
-❕ **Note**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html).
+❕ **Notes**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html).
 
 
 ## TouchWiz 6.0 - Marshmallow
