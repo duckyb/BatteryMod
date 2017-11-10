@@ -56,8 +56,12 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
 
-## TouchWiz 6.0 - Marshmallow
-_No Kernels Available yet_
-
 ## AOSP 8.0 - Oreo
+**Name**: Aldexus Kernel <br/>
+**Author**: Minealex2244 <br/>
+**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
+❕ **Note**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html).
+
+
+## TouchWiz 6.0 - Marshmallow
 _No Kernels Available yet_
