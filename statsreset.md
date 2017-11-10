@@ -16,11 +16,11 @@ Repeat this step one or two times and everything should work.
 
 Nothing should happen inside the terminal window, but your stats should have been reset.
 
-## Method 2.2 (aka Lukas0610's Method):
+### Method 2.2 (aka Lukas0610's Method):
 1. Discharge down to ~5%.
 2. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge)
 3. Charge to 100%
-4. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc`
+4. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
 Repeat all steps 2-3 times!
 
 ## Method 3 (aka Hard Stats Reset):
