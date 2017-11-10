@@ -25,6 +25,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
 - `#odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
 - `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
+- `#stockflatkernel` Stock SM-G920F `boot.img` file.
 
 ## Tips & Tricks
 - `#calibration` classic battery calibration method.
