@@ -27,6 +27,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#luckypatcher` Download link for the latest version of Lucky Patcher (from Uptown)
 
 ## Tips & Tricks
+- `#fixgap` guide on removing the gap from the back cover.
 - `#calibration` classic battery calibration method.
 - `#statsbin` short guide on resetting the battery stats.
 - `#terminalreset` resettings battery stats by terminal command.
