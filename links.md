@@ -6,14 +6,14 @@ Nothing dangerous, but your phone will not charge the battery to it's full capac
 
 ## Stock Kernels <br/>
 This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
-⭐ _Download link coming soon_
+_Download link coming soon_
 
 ## TouchWiz 7.0 - Nougat
 🥇 **Recommended Choice** <br/>
 **Name**: Kiboi Divine Battery Kernel <br/>
-**Author**: Kiboisr <br/>
+**Author**: @Kiboisr <br/>
 **Download**: Type `#kiboi` in our group to receive the file. <br/>
-❕ **Notes**: You must select Magisk in aroma or MTweaks will not be installed.
+**Notes**: You must select Magisk in aroma or MTweaks will not be installed.
 This kernel requires the *MTweaks* app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly!
 
 🥈 **Recommended Choice** <br/>
@@ -48,7 +48,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 ⚠️**Warning**: This kernel is in development, S7edge battery support is **partial**. <br/>
 
 **Name**: Kiboi Divine Battery Kernel - AOSP <br/>
-**Author**: Kiboisr <br/>
+**Author**: @Kiboisr <br/>
 **Download**: Type `#kiboiaosp` in our group to receive the file. <br/>
 ⚠️**Warning**: This kernel is **discontinued**! Flash at your own risk! Only supports Revolution Remix based roms! <br/>
 
@@ -60,7 +60,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Name**: Aldexus Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
-❕ **Notes**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html).
+**Notes**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html).
 
 
 ## TouchWiz 6.0 - Marshmallow
