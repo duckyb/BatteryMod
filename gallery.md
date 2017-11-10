@@ -2,4 +2,4 @@
 
 The gallery is temporarly located [here](https://imgur.com/a/vW9fY)
 
-![img1](https://i.imgur.com/0647etR.jpg=x150)
+<img src="https://i.imgur.com/0647etR.jpg" alt="img1" style="width: 50%;"/>
