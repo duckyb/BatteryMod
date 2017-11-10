@@ -8,13 +8,20 @@ Repeat this step one or two times and everything should work.
 2. Let your device discharge to 0% (until it shuts off)
 3. Charge it to 100%
 
-## Method 2 (terminal):
+## Method 2.1 (aka Terminal):
 1. Open Terminal Emulator
 2. Type: <br/>
   `su` <br/>
   `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
 
 Nothing should happen inside the terminal window, but your stats should have been reset.
+
+## Method 2.2 (aka Lukas0610's Method):
+1. Discharge down to ~5%.
+2. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge)
+3. Charge to 100%
+4. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc`
+Repeat all steps 2-3 times!
 
 ## Method 3 (aka Hard Stats Reset):
 This method is useful for when the previous methods don't seem to work.
