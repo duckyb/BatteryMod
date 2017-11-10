@@ -16,7 +16,7 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 **Notes**: You must select Magisk in aroma or MTweaks will not be installed.
 This kernel requires the *MTweaks* app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly!
 
-🥇 **Recommended Choice** <br/>
+🥈 **Recommended Choice** <br/>
 **Name**: Martitos Kernel <br/>
 **Author**: Antonio Martitos <br/>
 **Download**: Type `#martitos3` in our group to receive Martitos3.1, type `#martitos2` to receive Martitos2.1 <br/>
@@ -40,7 +40,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 ## AOSP 7.1.1 - Nougat
 
-🥇 **Recommended Choice** <br/>
+🥉 **Recommended Choice** <br/>
 **Name**: G-Kernel <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
 **Download**: [Telegram group invite](https://t.me/Gkernel) </br>
