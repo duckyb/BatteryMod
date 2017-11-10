@@ -43,10 +43,10 @@ This method is useful for when the previous methods don't seem to work.
 
 The Galaxy S7edge batteries usually are 1 millimiter thicker than stock batteries, but it's possible that some arrive thinner than others. If your battery isn't very thin, you will need to use this method to fix the little gap between the back cover and the phone.
 
-<img src="https://i.imgur.com/cB60Lku.jpg" alt:"5 screws"/>
+[Picture of the 5 screws](https://i.imgur.com/cB60Lku.jpg)
 
 Open up your phone and turn these screws counter-clockwise. You will see that where you unscrew them, the screen will move away from the body of the phone, this way it will make more space for the back cover. Of course you don't have to make a gap behind the screen, you just need to find the right distance of the screws so that the back cover fits well without separating the screen.
 
-<img src="https://i.imgur.com/2RzlxEv.jpg" alt:"5 screws"/>
+[Picture of the fixed gap](https://i.imgur.com/2RzlxEv.jpg)
 
 
