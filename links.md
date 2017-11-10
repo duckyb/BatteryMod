@@ -6,7 +6,7 @@ Nothing dangerous, but your phone will not charge the battery to it's full capac
 
 ## Stock Kernels <br/>
 This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
-_Download link coming soon_
+**Download**: Type `#stockflatkernel` in chat to receive the file. (SM-G920F)
 
 ## TouchWiz 7.0 - Nougat
 🥇 **Recommended Choice** <br/>
