@@ -16,7 +16,7 @@ Repeat this step one or two times and everything should work.
 
 Nothing should happen inside the terminal window, but your stats should have been reset.
 
-## Method 3 (HARD STATS RESET):
+## Method 3 (aka Hard Stats Reset):
 This method is useful for when the previous methods don't seem to work.
 1. Let your device discharge to 0% (until it shuts off)
 2. Switch on once more to make sure battery really is 0% (it should then immediately switch off again)
@@ -38,3 +38,15 @@ This method is useful for when the previous methods don't seem to work.
 2. Save `build.prop` and download fix zip file to sd card. (use `#fixwifi` command in the telegram chatroom)
 3. Reboot in recovery mode and flash that zip file.
 4. Reboot system
+
+# Fixing the gap on your back cover
+
+The Galaxy S7edge batteries usually are 1 millimiter thicker than stock batteries, but it's possible that some arrive thinner than others. If your battery isn't very thin, you will need to use this method to fix the little gap between the back cover and the phone.
+
+<img src="https://i.imgur.com/cB60Lku.jpg" alt:"5 screws"/>
+
+Open up your phone and turn these screws counter-clockwise. You will see that where you unscrew them, the screen will move away from the body of the phone, this way it will make more space for the back cover. Of course you don't have to make a gap behind the screen, you just need to find the right distance of the screws so that the back cover fits well without separating the screen.
+
+<img src="https://i.imgur.com/2RzlxEv.jpg" alt:"5 screws"/>
+
+
