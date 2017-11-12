@@ -56,4 +56,20 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
 
 [Picture of the fixed gap](https://i.imgur.com/2RzlxEv.jpg)
 
+# Removing extra bloatware from any device (by /u/dosangst)
 
+1. Install USB drivers for your [Device](https://developer.android.com/studio/run/oem-usb.html)
+2. [Download](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) and Install ADB tools
+3. Enable[ Developer Options](http://wccftech.com/enable-developer-options-android-nougat/) and [USB Debugging](https://technosamigos.com/enable-usb-debugging-on-android-nougat-phones/)
+4. Find a good USB cable, plug it into your computer and then to your device. When the pop-up appears asking you to authorize the device, allow it. 
+5. Open a command prompt (cmd in windows) and type: <br/>
+        `adb devices`
+6. This should return the ID of your device. If not, please go back and retrace your steps.
+7.  Use the following commands to find the apps you want to disable <br/>
+        `adb shell cmd pm list packages | grep 'samsung'`
+8. Now type: <br/>
+        `adb shell`
+9. This should give you a new prompt, something to the effect of (device-model):/ - here type the following:  <br/>
+        `pm uninstall -k --user 0 <name of package>`
+This should return 'Success' at which point the package has been removed! <br/>
+This has been tried on about half a dozen devices and it works on every single one, including the LG G6, Samsung S8, Google Pixel (Removed System Applications!)
