@@ -12,7 +12,7 @@ To know if your battery is calibrated correctly, try using [AccuBattery](https:/
 3. Charge it to 100%
 
 ## Method 2.1 (aka Terminal):
-1. Open Terminal Emulator
+1. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
 2. Type: <br/>
   `su` <br/>
   `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
@@ -21,9 +21,10 @@ Nothing should happen inside the terminal window, but your stats should have bee
 
 ### Method 2.2 (aka Lukas0610's Method):
 1. Discharge down to ~5%.
-2. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge)
-3. Charge to 100%
-4. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
+2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
+3. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge)
+4. Charge to 100%
+5. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
 Repeat all steps 2-3 times!
 
 ## Method 3 (aka Hard Stats Reset):
