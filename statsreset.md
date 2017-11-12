@@ -72,4 +72,5 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
 9. This should give you a new prompt, something to the effect of (device-model):/ - here type the following:  <br/>
         `pm uninstall -k --user 0 <name of package>`
 This should return 'Success' at which point the package has been removed! <br/>
+
 This has been tried on about half a dozen devices and it works on every single one, including the LG G6, Samsung S8, Google Pixel (Removed System Applications!)
