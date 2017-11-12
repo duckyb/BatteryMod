@@ -18,5 +18,8 @@ To calibrate the battery, simply discharge it until the phone shuts down. Then c
 Check the how to [reset your battery stats](/statsreset.md) page.
 9. **Is removing the NFC/Wirelss Charge pad necessary?** <br/>
 Absolutely not. The NFC/WC pad is only 0.33 ~ 0.5 millimeters thick, the benefit you gain by removing it is so little that it's irrelevant.
-10. **I want to go back to the stock kernel!** <br/>
+10. **How do I know if my battery is original?**
+You can measure the capacity (aproximately) with an app called [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery) <br/>
+![accubattery screenshot](/accubattery.jpg)
+11. **I want to go back to the stock kernel!** <br/>
 [Download Page](/links.md)
