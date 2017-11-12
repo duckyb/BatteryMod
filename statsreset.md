@@ -67,7 +67,7 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
         `adb devices`
 6. This should return the ID of your device. If not, please go back and retrace your steps.
 7.  Use the following commands to find the apps you want to disable <br/>
-        `adb shell cmd pm list packages | grep 'samsung'`
+        `adb shell pm list packages`
 8. Now type: <br/>
         `adb shell`
 9. This should give you a new prompt, something to the effect of (device-model):/ - here type the following:  <br/>
