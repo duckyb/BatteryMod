@@ -38,7 +38,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Download**: [Telegram group invite](https://t.me/Gkernel) </br>
 ⚠️**Warning**: This kernel is in development, S7edge battery support is **partial**. <br/>
 
-## AOSP 7.1.1 - Nougat
+## AOSP 7.1.X - Nougat
 
 🥉 **Recommended Choice** <br/>
 **Name**: G-Kernel <br/>
