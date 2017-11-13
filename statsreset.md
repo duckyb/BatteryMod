@@ -11,6 +11,8 @@ To know if your battery is calibrated correctly, try using [AccuBattery](https:/
 2. Let your device discharge to 0% (until it shuts off)
 3. Charge it to 100%
 
+> The `batterystats.bin` file only contains the information that is displayed in `Settings > Battery`, for this reason deleting it might not be helpful. ([Source](https://www.xda-developers.com/google-engineer-debunks-myth-wiping-battery-stats-does-not-improve-battery-life/))
+
 ## Method 2.1 (aka Terminal):
 1. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
 2. Type: <br/>
