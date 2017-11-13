@@ -2,9 +2,8 @@
 To calibrate your battery, simply discharge your phone to 0% (until it shuts off), then charge it to 100% without turning it on.
 Repeat this step one or two times and everything should work.
 
-AccuBattery | Screenshot
------------
-To know if your battery is calibrated correctly, try using [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery), after some charge cycles it will display a calculated capacity. This number should be around 3600mAh or more: | ![accuBattery screenshot](/accubattery.jpg)
+To know if your battery is calibrated correctly, try using [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery), after some charge cycles it will display a calculated capacity. This number should be around 3600mAh or more: <br/>
+![accuBattery screenshot](/accubattery.jpg)
 
 # Forcing a reset of the battery stats
 ## Method 1 (root explorer):
