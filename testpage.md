@@ -1,2 +1,2 @@
 - [X] completed element
-- [ ] empty element
+- [] empty element
