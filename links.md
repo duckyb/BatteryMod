@@ -37,6 +37,17 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [X] Stable Root
 - [X] Active Developer
 
+**Name**: Old Stock Mod (unknown) <br/>
+**Author**: _Unknown_ <br/>
+**Download**: Type `#oldstock` in our group to receive the file.
+
+- [ ] 100% stuck bug
+- [ ] 1% stuck bug
+- [X] Full S7e battery Support
+- [ ] MTweaks/Synapse Needed
+- [X] Stable Root
+- [ ] Active Developer
+
 **Name**: pos16-mod <br/>
 **Authors**: Noxx (base), Aelle Stetson (mod) <br/>
 **Download**: [Telegram group invite](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
