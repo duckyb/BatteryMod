@@ -1,7 +1,8 @@
-# great stuff {.jumbotron}
-lorem
- 
-click me {.btn .btn-default}
+<section class="jumbotron">
+  <h1 class="jumbotron">great stuff</h1>
+  <p>lorem</p>
+  <p class="btn btn-default">click me</p>
+</section>
 
 My task list:
 - [X] completed element
