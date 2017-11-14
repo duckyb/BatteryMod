@@ -20,9 +20,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
-- [X] Stable Root
+- [x] Full S7e battery Support
+- [x] MTweaks/Synapse Needed
+- [ ] Stable Root
 - [ ] Active Developer
 
 🥈 **Recommended Choice** <br/>
@@ -30,12 +30,12 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Author**: Antonio Martitos <br/>
 **Download**: Type `#martitos3` in our group to receive Martitos3.1, type `#martitos2` to receive Martitos2.1 <br/>
 
-- [X] 100% stuck bug
+- [x] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
+- [x] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] Stable Root
+- [x] Active Developer
 
 **Name**: Old Stock Mod (unknown) <br/>
 **Author**: _Unknown_ <br/>
@@ -43,9 +43,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
+- [x] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
-- [X] Stable Root
+- [x] Stable Root
 - [ ] Active Developer
 
 **Name**: pos16-mod <br/>
@@ -53,22 +53,22 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Download**: [Telegram group invite](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
 
 - [ ] 100% stuck bug
-- [X] 1% stuck bug
-- [X] Full S7e battery Support
+- [x] 1% stuck bug
+- [x] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
 - [ ] Stable Root
-- [X] Active Developer
+- [x] Active Developer
 
 **Name**: Aldeon Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
 
 - [ ] 100% stuck bug
-- [X] 1% stuck bug
-- [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] 1% stuck bug
+- [x] Full S7e battery Support
+- [x] MTweaks/Synapse Needed
+- [x] Stable Root
+- [x] Active Developer
 
 **Name**: L-Kernel <br/>
 **Author**: Andrea aka @LollosoSi <br/>
@@ -76,20 +76,20 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
+- [x] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
-- [X] Stable Root
+- [x] Stable Root
 - [ ] Active Developer
 
 **Name**: G-Kernel TW <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
 **Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
 - [ ] 100% stuck bug
-- [X] 1% stuck bug
+- [x] 1% stuck bug
 - [ ] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] Stable Root
+- [x] Active Developer
 
 ## AOSP 7.1.X - Nougat
 
@@ -100,11 +100,11 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Notes**: Only use this kernel with G-ROM (by GiuGiu19) or other Revolution Remix based roms! <br/>
 
 - [ ] 100% stuck bug
-- [X] 1% stuck bug
+- [x] 1% stuck bug
 - [ ] Full S7e battery Support
 - [ ] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] Stable Root
+- [x] Active Developer
 
 **Name**: Kiboi Divine Battery Kernel - AOSP <br/>
 **Author**: @Kiboisr <br/>
@@ -112,9 +112,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
-- [X] Stable Root
+- [x] Full S7e battery Support
+- [x] MTweaks/Synapse Needed
+- [x] Stable Root
 - [ ] Active Developer
 
 **Name**: AldeLOS Kernel <br/>
@@ -123,10 +123,10 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] Full S7e battery Support
+- [x] MTweaks/Synapse Needed
+- [x] Stable Root
+- [x] Active Developer
 
 ## AOSP 8.0 - Oreo
 **Name**: Aldexus Kernel <br/>
@@ -137,10 +137,10 @@ This kernel is now included in Teamnexus's ROM.
 
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
-- [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
-- [X] Stable Root
-- [X] Active Developer
+- [x] Full S7e battery Support
+- [x] MTweaks/Synapse Needed
+- [x] Stable Root
+- [x] Active Developer
 
 
 ## TouchWiz 6.0 - Marshmallow
