@@ -77,9 +77,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [ ] 100% stuck bug
 - [ ] 1% stuck bug
 - [X] Full S7e battery Support
-- [X] MTweaks/Synapse Needed
+- [ ] MTweaks/Synapse Needed
 - [X] Stable Root
-- [X] Active Developer
+- [ ] Active Developer
 
 **Name**: G-Kernel TW <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
