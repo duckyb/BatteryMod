@@ -1,3 +1,5 @@
+[Home](/index.md)   >   [Links](/links.md)
+
 # Kernel download Links
 The default samsung kernel will not support the bigger battery, you will need to flash a custom kernel made for this mod. <br/>
 > What happens if I don't change my kernel?
