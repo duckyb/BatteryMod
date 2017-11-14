@@ -9,8 +9,8 @@ You will go from your 2550mAh battery to a 3600mAh battery, this is a 41% increa
 [Telegram Invite Link](https://t.me/BatteryMod)
 
 # Main Sections
-- [FAQ](/faq.md)
-- [Kernel Links](/links.md)
-- [Tips & Tricks](/statsreset.md)
-- [Chat Commands](/commands.md)
-- [Gallery](/gallery.md)
+1. [FAQ](/faq.md)
+2. [Kernel Links](/links.md)
+3. [Tips & Tricks](/statsreset.md)
+4. [Chat Commands](/commands.md)
+5. [Gallery](/gallery.md)
