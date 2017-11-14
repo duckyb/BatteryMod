@@ -70,7 +70,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 
 **Name**: G-Kernel TW <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
-**Download**: [Telegram group invite](https://t.me/Gkernel) </br>
+**Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
 - [ ] 100% stuck bug
 - [X] 1% stuck bug
 - [ ] Full S7e battery Support
@@ -83,7 +83,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 🥉 **Recommended Choice** <br/>
 **Name**: G-Kernel <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
-**Download**: [Telegram group invite](https://t.me/Gkernel) </br>
+**Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
 **Notes**: Only use this kernel with G-ROM (by GiuGiu19) or other Revolution Remix based roms! <br/>
 
 - [ ] 100% stuck bug
