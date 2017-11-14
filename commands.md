@@ -26,6 +26,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#martitos2` Martitos 2.1 kernel
 - `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
 - `#odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
+- `#oldstock` A Kernel from an Unknown developer, based on a stock G920F kernel. Works well.
 - `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
 - `#stockflatkernel` Stock SM-G920F `boot.img` file.
 
