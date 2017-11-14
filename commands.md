@@ -1,3 +1,5 @@
+[Home](/index.md)   >   [Commands](/commands.md)
+
 # Telegram Group Chat Commands
 
 This is a list of custom commands that you can use in our telegram group. every commands starts with `#` and is followed by a `keyword`. <br/>
