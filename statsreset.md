@@ -68,7 +68,8 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
 
 # Removing extra bloatware from any device (by /u/dosangst)
 
-![cmd screenshot](/image.png)
+<img src="/img/adbshell.png" height="100%" width="100%"/>
+
 1. Install USB drivers for your [Device](https://developer.android.com/studio/run/oem-usb.html)
 2. [Download](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) and Install ADB tools
 3. Enable[ Developer Options](http://wccftech.com/enable-developer-options-android-nougat/) and [USB Debugging](https://technosamigos.com/enable-usb-debugging-on-android-nougat-phones/)
