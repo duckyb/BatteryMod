@@ -17,3 +17,12 @@ Second list:
       <li class = "box_done"> A </li>
       <li class = "box_done"> B </li>
 </ul>
+
+<ul class="task-list" dir="auto">
+   <li class="task-list-item">
+      <input type="checkbox" class="task-list-item-checkbox" disabled=""> this is still to do
+   </li>
+   <li class="task-list-item">
+      <input type="checkbox" class="task-list-item-checkbox" checked="" disabled=""> done
+   </li>
+</ul>
