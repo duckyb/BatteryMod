@@ -1,3 +1,5 @@
+[Home](/index.md)
+
 # What is the S6 battery mod?
 The battery mod consists in installing an S7edge battery inside of a Galaxy S6. <br/>
 This solves this device's biggest problem, battery life! <br/>
