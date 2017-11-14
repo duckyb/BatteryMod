@@ -1,3 +1,5 @@
+[Home](/index.md)   >   [Tips & Tricks](/statsreset.md)
+
 # Calibrating your new battery
 To calibrate your battery, simply discharge your phone to 0% (until it shuts off), then charge it to 100% without turning it on.
 Repeat this step one or two times and everything should work.
@@ -18,15 +20,16 @@ To know if your battery is calibrated correctly, try using [AccuBattery](https:/
 2. Type: <br/>
   `su` <br/>
   `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
-
-Nothing should happen inside the terminal window, but your stats should have been reset.
+  Nothing should happen inside the terminal window, but your stats should have been reset.
 
 ### Method 2.2 (aka Lukas0610's Method):
 1. Discharge down to ~5%.
 2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
-3. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge)
+3. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge) <br/>
+        Nothing should happen inside the terminal window, but your stats should have been reset.
 4. Charge to 100%
 5. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
+        Nothing should happen inside the terminal window, but your stats should have been reset.
 Repeat all steps 2-3 times!
 
 ## Method 3 (aka Hard Stats Reset):
