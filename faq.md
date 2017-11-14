@@ -1,3 +1,5 @@
+[Home](/index.md)   >   [F.A.Q.](/faq.md)
+
 # Frequently Asked Questions
 
 1. **How do I remove the battery?** <br/>
