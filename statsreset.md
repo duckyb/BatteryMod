@@ -68,7 +68,7 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
 
 # Removing extra bloatware from any device (by /u/dosangst)
 
-<img src="/img/adbshell.png" height="1em" width="1em"/>
+<img src="/img/adbshell.png"/>
 
 1. Install USB drivers for your [Device](https://developer.android.com/studio/run/oem-usb.html)
 2. [Download](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) and Install ADB tools
