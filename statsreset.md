@@ -6,7 +6,7 @@ Repeat this step one or two times and everything should work.
 
 To know if your battery is calibrated correctly, try using [AccuBattery](https://play.google.com/store/apps/details?id=com.digibites.accubattery), after some charge cycles it will display a calculated capacity. This number should be around 3600mAh or more: <br/>
 
-<img src="/img/accubattery.jpg" height="50%" width="50%"/>
+<img src="img/accubattery.jpg" height="50%" width="50%"/>
 
 # Forcing a reset of the battery stats
 ## Method 1 (root explorer):
@@ -68,7 +68,7 @@ Open up your phone and turn these screws counter-clockwise. You will see that wh
 
 # Removing extra bloatware from any device (by /u/dosangst)
 
-<img src="/img/adbshell.png"/>
+<img src="img/adbshell.png"/>
 
 1. Install USB drivers for your [Device](https://developer.android.com/studio/run/oem-usb.html)
 2. [Download](http://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378) and Install ADB tools
