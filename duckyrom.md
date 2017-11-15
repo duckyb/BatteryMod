@@ -1,6 +1,6 @@
 [Home](/index.md)     >     [DuckyROM](/duckyrom.md)
 # Ducky ROM
-<img src="/img/ducky.png" height="166" width="144"/>
+<img src="img/ducky.png" height="166" width="144"/>
 
 ## Download:
 
