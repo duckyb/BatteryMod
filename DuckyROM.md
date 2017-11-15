@@ -1,5 +1,5 @@
 # Ducky ROM
-<img src="/img/ducky.png" height="100" width="100"/>
+<img src="/img/ducky.png" height="166" width="144"/>
 
 ## Download:
 
