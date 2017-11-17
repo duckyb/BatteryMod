@@ -1,8 +1,5 @@
 [Home](/index.md)     >     [DuckyROM](/duckyrom.md)
 # Ducky ROM
-<img src="img/ducky.png" height="166" width="144"/>
-<img src="img/home_screenshot.jpg" height="267" width="150"/>
-
 ## Download:
 
 - DuckyROM v1.3: _coming 20 November 2017_
