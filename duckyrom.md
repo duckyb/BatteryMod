@@ -8,8 +8,12 @@
 - DuckyROM v1.1: https://goo.gl/LLYn48
 
 ## Features:
+<ol>
+  <li>Based on november samsung stock build</li>
+<ol/>
 1. Based on november samsung stock build
 2. Aroma Installer
+3. Deodexed
 3. Deknoxed
 4. Debloated (app list by Aria/Odexlite4.1)
 5. Zipaligned
