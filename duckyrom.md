@@ -25,11 +25,13 @@
 - [ ] add USSD codes
 
 ## Change history:
-- v1.3 <br/>
-  Removed all csc specific stuff <br/>
-  Added first custom mod in aroma
-- v1.1 added custom build string in settings
-- v1.0 Initial release
+### v1.3
+Removed all csc specific stuff <br/
+Added first custom mod in aroma
+### v1.1 
+added custom build string in settings
+### v1.0 
+Initial release
 
 ## Known bugs:
 1. USSD Codes not working
