@@ -10,14 +10,13 @@
 ## Features:
 <ol>
   <li>Based on november samsung stock build</li>
-<ol/>
-1. Based on november samsung stock build
-2. Aroma Installer
-3. Deodexed
-3. Deknoxed
-4. Debloated (app list by Aria/Odexlite4.1)
-5. Zipaligned
-6. Busybox + SQlite
+  <li>Aroma Installer</li>
+  <li>Deodexed</li>
+  <li>Deknoxed</li>
+  <li>Debloat based on Aria's Odexlite list</li>
+  <li>Zip-Aligned</li>
+  <li>Busybox + SQlite</li>
+</ol>
 
 ## To-Do List
 - [x] learn to add aroma mods
