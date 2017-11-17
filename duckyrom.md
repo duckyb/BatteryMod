@@ -18,6 +18,7 @@
 ## To-Do List
 - [x] learn to add aroma mods
 - [x] add recent apps lock icon
+- [ ] change default language to english
 - [ ] change default wallpaper
 - [ ] change stock statusbar icons with aosp icons
 - [ ] add centre clock aroma mod
