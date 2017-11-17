@@ -2,7 +2,7 @@
 # Ducky ROM
 <img src="img/ducky.png" height="166" width="144"/>
 <img src="img/home_screenshot.jpg" height="50%" width="50%"/>
-<img src="img/settings_screenshot.jpg" height="50%" width="50%"/>
+<img src="img/settings_screenshot.jpg" float="right" height="50%" width="50%"/>
 ## Download:
 
 - DuckyROM v1.3: _coming 20 November 2017_
