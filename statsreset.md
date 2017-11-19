@@ -50,6 +50,6 @@ This should return 'Success' at which point the package has been removed! <br/>
 
 This has been tried on about half a dozen devices and it works on every single one, including the LG G6, Samsung S8, Google Pixel (Removed System Applications!)
 
-# <img src="img/fingerprinticon.png" height="6%" width="6%"/> Making fingerprint sensor faster 
+# <img src="img/fingerprinticon.png" height="3%" width="3%"/> Making fingerprint sensor faster 
 
 If you have registered multiple fingers on the sensor, try removing all saved fingerprints, then register just ONE fingerprint, but use all the fingers you want while registering. For example, if you want to register 4 fingers (both index and thumbs), register 0-25% with 1 finger, 25-50% with another, 50-75% with another and 75-100% with last finger.
