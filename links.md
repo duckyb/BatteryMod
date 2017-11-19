@@ -132,6 +132,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [✔️] Stable Root
 - [❌] Active Developer
 
+<hr/>
+
 **Name**: AldeLOS Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
