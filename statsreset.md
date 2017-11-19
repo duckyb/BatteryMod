@@ -10,7 +10,7 @@ To know if your battery is calibrated correctly, try using [AccuBattery](https:/
 
 # Forcing a reset of the battery stats
 
-[More ways of calibrating your battery](/calibration.md)
+[Click here for more calibration methods](/calibration.md)
 
 # Fix device forgetting Wifi networks / Bluetooth broken
 
