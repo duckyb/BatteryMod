@@ -1,4 +1,4 @@
-[Home](/index.md)   >   [Tips & Tricks](/statsreset.md)
+[Home](/index.md)   >   [Tips & Tricks](/tips.md)
 
 # Calibrating your new battery
 To calibrate your battery, simply discharge your phone to 0% (until it shuts off), then charge it to 100% without turning it on.
