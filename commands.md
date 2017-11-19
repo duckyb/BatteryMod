@@ -8,6 +8,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 ## Guide Links
 - `#guide` This guide's home page.
 - `#guidecommands` This page!
+- `guidecalibration` The guide's calibration methods page.
 - `#guidefaq` This guide's FAQ page.
 - `#guidegallery` This guide's gallery page.
 - `#guidelinks` This guide's download links page.
