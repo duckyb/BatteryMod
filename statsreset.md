@@ -52,4 +52,5 @@ This has been tried on about half a dozen devices and it works on every single o
 
 # Making fingerprint sensor faster
 
+<img src="img/fingerprinticon.png" height="50%" width="50%"/>
 If you have registered multiple fingers on the sensor, try removing all saved fingerprints, then register just ONE fingerprint, but use all the fingers you want while registering. For example, if you want to register 4 fingers (both index and thumbs), register 0-25% with 1 finger, 25-50% with another, 50-75% with another and 75-100% with last finger.
