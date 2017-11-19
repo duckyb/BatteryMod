@@ -1,6 +1,7 @@
 ## Method 1 🏆 (aka Lukas0610's Method):
 > This method will calibrate your battery on any kernel, even the stock samsung kernel. <br/>
-It has been tested by multiple users and always reported working.
+It has been tested by multiple users and always reported working. <br/>
+Always try this method first.
 
 1. Discharge down to ~5%.
 2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
@@ -11,22 +12,15 @@ It has been tested by multiple users and always reported working.
         Nothing should happen inside the terminal window, but your stats should have been reset. <br/>
 Repeat all steps 2-3 times!
 
-## Method 2 (root explorer):
-1. Delete the file located in `data/system/batterystats.bin` <br/>
-2. Let your device discharge to 0% (until it shuts off)
-3. Charge it to 100%
-
-> The `batterystats.bin` file only contains the information that is displayed in `Settings > Battery`, for this reason deleting it might not be helpful. ([Source](https://www.xda-developers.com/google-engineer-debunks-myth-wiping-battery-stats-does-not-improve-battery-life/))
-
-## Method 3 (aka Terminal):
+## Method 2 (aka Terminal):
 1. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
 2. Type: <br/>
   `su` <br/>
   `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
   Nothing should happen inside the terminal window, but your stats should have been reset.
 
-## Method 4 (aka Hard Stats Reset):
-This method is useful for when the previous methods don't seem to work.
+## Method 3 (aka Hard Stats Reset):
+
 1. Let your device discharge to 0% (until it shuts off)
 2. Switch on once more to make sure battery really is 0% (it should then immediately switch off again)
 3. Now, **keep the device off**, plug in the charger and let it charge to 100%
@@ -40,3 +34,11 @@ This method is useful for when the previous methods don't seem to work.
 11. Charge your phone while powered as usual until it shows 100% charge.
 12. Make sure that during discharging you don't reboot your phone! Or else the system will create a new `batterystats.bin` file or if already made, it will get corrupted and you will have to start again from first step!
 13. Repeat steps 11 and 12 until the battery behaves normally.
+
+## Method 4 (root explorer):
+> Only try this method if everything else fails. <br/>
+> The `batterystats.bin` file only contains the information that is displayed in `Settings > Battery`, for this reason deleting it might not be helpful. ([Source](https://www.xda-developers.com/google-engineer-debunks-myth-wiping-battery-stats-does-not-improve-battery-life/))
+
+1. Delete the file located in `data/system/batterystats.bin` <br/>
+2. Let your device discharge to 0% (until it shuts off)
+3. Charge it to 100%
