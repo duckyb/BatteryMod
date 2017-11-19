@@ -37,6 +37,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#calibration` classic battery calibration method.
 - `#fixgap` guide on removing the gap from the back cover.
 - `#hardstatsreset` long step-by-step guide on resetting your battery stats.
+- `#lukascalibration` calibration method by lukas
 - `#securestorage` quick guide on fixing device forgetting wifi passwords.
 - `#statsbin` short guide on resetting the battery stats.
 - `#terminalreset` resettings battery stats by terminal command.
