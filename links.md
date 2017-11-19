@@ -40,6 +40,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [✔️] Stable Root
 - [✔️] Active Developer
 
+<hr/>
+
 **Name**: Old Stock Mod (unknown) <br/>
 **Author**: _Unknown_ <br/>
 **Download**: Type `#oldstock` in our group to receive the file.
@@ -50,6 +52,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [❌] Active Developer
+
+<hr/>
 
 **Name**: pos16-mod <br/>
 **Authors**: Noxx (base), Aelle Stetson (mod) <br/>
@@ -62,9 +66,11 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] Stable Root
 - [✔️] Active Developer
 
+<hr/>
+
 **Name**: Aldeon Kernel <br/>
 **Author**: Minealex2244 <br/>
-**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
+**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819)
 
 - [✔️] 100% stuck bug fixed
 - [❌] 1% stuck bug fixed
@@ -72,6 +78,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [✔️] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [✔️] Active Developer
+
+<hr/>
 
 **Name**: L-Kernel <br/>
 **Author**: Andrea aka @LollosoSi <br/>
@@ -83,6 +91,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [❌] Active Developer
+
+<hr/>
 
 **Name**: G-Kernel TW <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
@@ -108,6 +118,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [✔️] Active Developer
+
+<hr/>
 
 **Name**: Kiboi Divine Battery Kernel - AOSP <br/>
 **Author**: @Kiboisr <br/>
