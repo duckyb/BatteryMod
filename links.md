@@ -18,78 +18,78 @@ This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
 > **Notes**: You must select Magisk in aroma or MTweaks will not be installed.
 This kernel requires the *MTweaks* app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly!
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [x] MTweaks/Synapse Needed
-- [ ] Stable Root
-- [ ] Active Developer
+- [✔️] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [❌] Stable Root
+- [❌] Active Developer
 
 🥈 **Recommended Choice** <br/>
 **Name**: Martitos Kernel <br/>
 **Author**: Antonio Martitos <br/>
 **Download**: Type `#martitos3` in our group to receive Martitos3.1, type `#martitos2` to receive Martitos2.1 <br/>
 
-- [x] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [❌] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 **Name**: Old Stock Mod (unknown) <br/>
 **Author**: _Unknown_ <br/>
 **Download**: Type `#oldstock` in our group to receive the file.
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [x] Stable Root
-- [ ] Active Developer
+- [✔️] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [❌] Active Developer
 
 **Name**: pos16-mod <br/>
 **Authors**: Noxx (base), Aelle Stetson (mod) <br/>
 **Download**: [Telegram group invite](https://t.me/joinchat/EUKDukM9ovclLUMEb9HcYw) <br/>
 
-- [ ] 100% stuck bug
-- [x] 1% stuck bug
-- [x] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [ ] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug fixed
+- [❌] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [❌] Stable Root
+- [✔️] Active Developer
 
 **Name**: Aldeon Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
 
-- [ ] 100% stuck bug
-- [x] 1% stuck bug
-- [x] Full S7e battery Support
-- [x] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug fixed
+- [❌] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 **Name**: L-Kernel <br/>
 **Author**: Andrea aka @LollosoSi <br/>
 **Download**: Type `#lkernel` in our group to receive the file. <br/>
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [x] Stable Root
-- [ ] Active Developer
+- [✔️] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [❌] Active Developer
 
 **Name**: G-Kernel TW <br/>
 **Author**: Giuseppe aka @GiuGiu19 <br/>
 **Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
-- [ ] 100% stuck bug
-- [x] 1% stuck bug
-- [ ] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug fix
+- [❌] 1% stuck bug fix
+- [❌] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 ## AOSP 7.1.X - Nougat
 
@@ -99,34 +99,34 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
 **Notes**: Only use this kernel with G-ROM (by GiuGiu19) or other Revolution Remix based roms! <br/>
 
-- [ ] 100% stuck bug
-- [x] 1% stuck bug
-- [ ] Full S7e battery Support
-- [ ] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug
+- [❌] 1% stuck bug
+- [❌] Full S7e battery Support
+- [❌] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 **Name**: Kiboi Divine Battery Kernel - AOSP <br/>
 **Author**: @Kiboisr <br/>
 **Download**: Type `#kiboiaosp` in our group to receive the file. <br/>
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [x] MTweaks/Synapse Needed
-- [x] Stable Root
-- [ ] Active Developer
+- [✔️] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [❌] Active Developer
 
 **Name**: AldeLOS Kernel <br/>
 **Author**: Minealex2244 <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/7-0-samsung-galaxy-s6-aldeon-kernel-t3617819) <br/>
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [x] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug fixed
+- [❌] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 ## AOSP 8.0 - Oreo
 **Name**: Aldexus Kernel <br/>
@@ -135,12 +135,12 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 > **Notes**: To make this kernel work, it's recommended to use [Lukas0610's calibration method](https://duckyb.github.io/BatteryMod/statsreset.html). <br/>
 This kernel is now included in Teamnexus's ROM.
 
-- [ ] 100% stuck bug
-- [ ] 1% stuck bug
-- [x] Full S7e battery Support
-- [x] MTweaks/Synapse Needed
-- [x] Stable Root
-- [x] Active Developer
+- [✔️] 100% stuck bug fixed
+- [✔️] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 
 ## TouchWiz 6.0 - Marshmallow
