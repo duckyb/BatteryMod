@@ -17,8 +17,8 @@
 </ol>
 
 ## To-Do List
-- [x] learn to add aroma mods
-- [x] add recent apps lock icon
+- [✔️] learn to add aroma mods
+- [✔️] add recent apps lock icon
 - [ ] change default language to english
 - [ ] change default wallpaper
 - [ ] change stock statusbar icons with aosp icons
@@ -26,9 +26,12 @@
 - [ ] add USSD codes
 
 ## Change history:
+- v1.4 <br/>
+Added network speed in statusbar
+Removed all S-Voice apps
 - v1.3 <br/>
 Removed all csc specific stuff <br/>
-Added first custom mod in aroma
+Added recent app lock
 - v1.1 <br/> 
 added custom build string in settings
 - v1.0 <br/> 
