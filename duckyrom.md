@@ -5,7 +5,7 @@
 > **Notes** The rom comes unrooted. If you want to use the stock kernel use Magisk v14.00
 
 - DuckyROM v1.4: _coming 20 November 2017_
-- DuckyROM v1.1: https://goo.gl/LLYn48
+- [DuckyROM v1.1](https://goo.gl/LLYn48)
 
 ## Features:
 <ol>
