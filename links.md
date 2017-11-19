@@ -26,6 +26,8 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] Stable Root
 - [❌] Active Developer
 
+<hr/>
+
 🥈 **Recommended Choice** <br/>
 **Name**: Martitos Kernel <br/>
 **Author**: Antonio Martitos <br/>
