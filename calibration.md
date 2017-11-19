@@ -1,3 +1,5 @@
+[Home](/index.md)   >   [Tips&Tricks](/tips.md)   >   [Calibration](/calibration.md)
+
 ## Method 1 🏆 (aka Lukas0610's Method):
 > This method will calibrate your battery on any kernel, even the stock samsung kernel. <br/>
 It has been tested by multiple users and always reported working. <br/>
