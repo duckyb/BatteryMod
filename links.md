@@ -7,7 +7,7 @@ The default samsung kernel will not support the bigger battery, you will need to
 Nothing dangerous, but your phone will not charge the battery to it's full capacity, instead, it will charge it as if it was a stock 2550mAh battery.
 
 ## Stock Kernels <br/>
-> This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD** <br/>
+> This is the original samsung kernel **IT DOES NOT SUPPORT THE MOD**
 **Download**: Type `#stockflatkernel` in chat to receive the file. (SM-G920F)
 
 ## TouchWiz 7.0 - Nougat
