@@ -1,6 +1,6 @@
 ## Method 1 (aka Lukas0610's Method):
 > This method will calibrate your battery on any kernel, even the stock samsung kernel. <br/>
-It has been tested my multiple users and reported working.
+It has been tested by multiple users and always reported working.
 
 1. Discharge down to ~5%.
 2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
