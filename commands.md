@@ -15,6 +15,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#guidetips` This guide's Tips & Tricks page.
 
 ## File downloads
+- `#autocalibration` App to run lukas calibration method automagically.
 - `#fixwifi` You need this if your device forgets wifi passwords after reboot.
 - `#healthservicetibkp` Titanium Backup of *Samsung Health Service*
 - `#lkernel` LKernel by Andrea
