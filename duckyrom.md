@@ -46,5 +46,8 @@ added custom build string in settings
 Initial release
 
 ## Known bugs:
-1. USSD Codes not working
-2. Problem with Device Maintenance update warning
+<ol>
+  <li>"OK Google!" not working, will be fixed in 1.5</li>
+  <li>USSD Codes not working</li>
+  <li>Problem with Device Maintenance update warning</li>
+</ol>
