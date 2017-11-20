@@ -15,4 +15,4 @@ You will go from your 2550mAh battery to a 3600mAh battery, this is a 41% increa
   3.1 [More calibration methods](/calibration.md)
 4. [Chat Commands](/commands.md)
 5. [Gallery](/gallery.md)
-6. [DuckyROM](http://duckyb.github.io/DuckyROM/index.md)
+6. [DuckyROM](http://duckyb.github.io/DuckyROM/index.html)
