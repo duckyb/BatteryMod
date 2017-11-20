@@ -5,7 +5,8 @@
 It has been tested by multiple users and always reported working. <br/>
 Always try this method first. <br/>
 After inserting the command the battery percentage number could change. If it changes it means that you need to continue calibrating (discharge - command - charge - command - repeat) <br/>
-You can start from ~5% or 100% as you wish.
+You can start from ~5% or 100% as you wish. <br/>
+You can now do this automatically with an app, use `#autocalibration` command for the download link!
 
 1. Discharge down to ~5%.
 2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
