@@ -33,7 +33,8 @@
 
 ## Change history:
 - v1.5 <br/>
-
+Added back Galaxy Apps, Samsung Billing, Theme Store. <br/>
+Updated source to November security patch
 - v1.4 <br/>
 Added network speed in statusbar
 Removed all S-Voice apps
