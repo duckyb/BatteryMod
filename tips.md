@@ -56,8 +56,6 @@ If you have registered multiple fingers on the sensor, try removing all saved fi
 
 # Fix Substratum themes not going away / Reset substratum completely
 
-<ol>
-    <li>Navigate to `\vendor\overlays`</li>
-    <li>Delete all files in that folder</li>
-    <li>Reboot</li>
-</ol>
+1. Navigate to `\vendor\overlays`
+2. Delete all files in that folder
+3. Reboot
