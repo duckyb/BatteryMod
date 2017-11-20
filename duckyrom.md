@@ -4,7 +4,8 @@
 
 > **Notes** The rom comes unrooted. If you want to use the stock kernel use Magisk v14.00
 
-- DuckyROM v1.4: _coming 20 November 2017_
+- DuckyROM v1.5: _Coming 27 November 2017_
+- [DuckyROM v1.4](https://mega.nz/#!GRdiDR5K!O101pMNqp9hb5wkAReXGgJgUMbiLFzYvd8i0821fpEM)
 - [DuckyROM v1.1](https://goo.gl/LLYn48)
 
 ## Features:
@@ -27,8 +28,12 @@
 - [ ] change stock statusbar icons with aosp icons
 - [ ] add centre clock aroma mod
 - [ ] add USSD codes
+- [ ] add Voice Over LTE toggle in settings
+- [ ] change emojis to Android Oreo
 
 ## Change history:
+- v1.5 <br/>
+
 - v1.4 <br/>
 Added network speed in statusbar
 Removed all S-Voice apps
