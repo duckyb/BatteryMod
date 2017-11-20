@@ -47,6 +47,7 @@ Initial release
 
 ## Known bugs:
 <ol>
+  <li>Galaxy Theme store and Billing unavailable, will fix tomorrow if possible</li>
   <li>"OK Google!" not working, will be fixed in 1.5</li>
   <li>USSD Codes not working</li>
   <li>Problem with Device Maintenance update warning</li>
