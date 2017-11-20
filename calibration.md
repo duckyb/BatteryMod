@@ -10,11 +10,13 @@ You can now do this automatically with an app, use `#autocalibration` command fo
 
 1. Discharge down to ~5%.
 2. Open [Terminal Emulator](https://play.google.com/store/apps/details?id=jackpal.androidterm&hl=en)
-3. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge) <br/>
-        Nothing should happen inside the terminal window, but your stats should have been reset.
-4. Charge to 100%
-5. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
-        Nothing should happen inside the terminal window, but your stats should have been reset. <br/>
+3. Run `su` and give root access. <br/>
+4. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` (Resets the fuelgauge) <br/>
+        Nothing should happen inside the terminal window, but your battery percentage might change.
+5. Charge to 100%
+6. Run `su` and give root access. <br/>
+7. Run `echo 1 > /sys/class/power_supply/battery/batt_reset_soc` <br/>
+        Nothing should happen inside the terminal window, but your battery percentage might change. <br/>
 Repeat all steps 2-3 times!
 
 ## Method 2 (aka Terminal):
