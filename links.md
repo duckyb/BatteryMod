@@ -109,14 +109,14 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Name**: Kali Nethunter <br/>
 **Author**: `@madScript01` <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/galaxy-s6-nougat-aosp-kernel-nethunter-t3671858) <br/>
-> **Notes**: This kernel was added recently, support and bugs are still unknown.  <br/>
+> **Notes**: This kernel is based on Aldeon Kernel by Minealex <br/>
 
-- [❓] 100% stuck bug fixed
-- [❓] 1% stuck bug fixed
-- [❓] Full S7e battery Support
-- [❓] MTweaks/Synapse Needed
-- [❓] Stable Root
-- [❓] Active Developer
+- [✔️] 100% stuck bug fixed
+- [❌] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 ## AOSP 7.1.X - Nougat
 
@@ -164,14 +164,14 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Name**: Kali Nethunter <br/>
 **Author**: `@madScript01` <br/>
 **Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/galaxy-s6-nougat-aosp-kernel-nethunter-t3671858) <br/>
-> **Notes**: This kernel was added recently, support and bugs are still unknown. <br/>
+> **Notes**: This kernel is based on Aldeon Kernel by Minealex <br/>
 
-- [❓] 100% stuck bug fixed
-- [❓] 1% stuck bug fixed
-- [❓] Full S7e battery Support
-- [❓] MTweaks/Synapse Needed
-- [❓] Stable Root
-- [❓] Active Developer
+- [✔️] 100% stuck bug fixed
+- [❌] 1% stuck bug fixed
+- [✔️] Full S7e battery Support
+- [✔️] MTweaks/Synapse Needed
+- [✔️] Stable Root
+- [✔️] Active Developer
 
 ## AOSP 8.0 - Oreo
 **Name**: Aldexus Kernel <br/>
