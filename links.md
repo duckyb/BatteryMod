@@ -14,7 +14,7 @@ Nothing dangerous, but your phone will not charge the battery to it's full capac
 ## TouchWiz 7.0 - Nougat
 🥇 **Recommended Choice** <br/>
 **Name**: Kiboi Divine Battery Kernel <br/>
-**Author**: @Kiboisr <br/>
+**Author**: `@Kiboisr` <br/>
 **Download**: Type `#kiboi` in our group to receive the file. <br/>
 > **Notes**: You must select Magisk in aroma or MTweaks will not be installed.
 This kernel requires the *MTweaks* app to be installed, and the custom modules to be loaded. After installing the kernel check that you have them or it will not work correctly!
@@ -82,7 +82,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 <hr/>
 
 **Name**: L-Kernel <br/>
-**Author**: Andrea aka @LollosoSi <br/>
+**Author**: Andrea aka `@LollosoSi` <br/>
 **Download**: Type `#lkernel` in our group to receive the file. <br/>
 
 - [✔️] 100% stuck bug fixed
@@ -95,7 +95,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 <hr/>
 
 **Name**: G-Kernel TW <br/>
-**Author**: Giuseppe aka @GiuGiu19 <br/>
+**Author**: Giuseppe aka `@GiuGiu19` <br/>
 **Download**: [Telegram group invite](https://t.me/Gkernel) <br/>
 - [✔️] 100% stuck bug fix
 - [❌] 1% stuck bug fix
@@ -103,6 +103,17 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [✔️] Active Developer
+
+**Name**: Kali Nethunter
+**Author**: `@madScript01`
+**Download**: [XDA-Developers](https://forum.xda-developers.com/galaxy-s6/development/galaxy-s6-nougat-aosp-kernel-nethunter-t3671858)
+
+- [❓] 100% stuck bug fixed
+- [❓] 1% stuck bug fixed
+- [❓] Full S7e battery Support
+- [❓] MTweaks/Synapse Needed
+- [❓] Stable Root
+- [❓] Active Developer
 
 ## AOSP 7.1.X - Nougat
 
