@@ -1,5 +1,10 @@
 [Home](/index.md)   >   [Links](/links.md)
 
+# Important - README!
+With the new "Lukas Calibration Method" you don't have to use a batteryMod kernel, you can just use any normal kernel and calibrate with the terminal commands or with the special app.
+- [Find the terminal commands here](/calibration.md)
+- Download the app with the `#autocalibration` telegram command!
+
 # Kernel download Links
 The default samsung kernel will not support the bigger battery, you will need to flash a custom kernel made for this mod. <br/>
 > What happens if I don't change my kernel?
