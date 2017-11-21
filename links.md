@@ -114,9 +114,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [✔️] 100% stuck bug fixed
 - [❌] 1% stuck bug fixed
 - [✔️] Full S7e battery Support
-- [✔️] MTweaks/Synapse Needed
+- [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
-- [✔️] Active Developer
+- [❌] Active Developer
 
 ## AOSP 7.1.X - Nougat
 
@@ -169,7 +169,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 - [✔️] 100% stuck bug fixed
 - [❌] 1% stuck bug fixed
 - [✔️] Full S7e battery Support
-- [✔️] MTweaks/Synapse Needed
+- [❌] MTweaks/Synapse Needed
 - [✔️] Stable Root
 - [✔️] Active Developer
 
