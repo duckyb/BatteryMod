@@ -36,9 +36,9 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 🥈 **Recommended Choice** <br/>
 **Name**: Martitos Kernel <br/>
 **Author**: Antonio Martitos <br/>
-**Download**: Type `#martitos3` in our group to receive Martitos3.1, type `#martitos2` to receive Martitos2.1 <br/>
+**Download**: Type `#martitos4` in our group to receive the file <br/>
 
-- [❌] 100% stuck bug fixed
+- [✔️] 100% stuck bug fixed
 - [✔️] 1% stuck bug fixed
 - [✔️] Full S7e battery Support
 - [❌] MTweaks/Synapse Needed
