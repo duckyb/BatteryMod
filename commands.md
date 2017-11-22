@@ -24,6 +24,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#kiboiaosp` Kiboi 3.0 for revolution remix (aosp) roms
 - `#magiskbeta` XDA Thread of Magisk's beta releases.
 - `#magiskstable` XDA Thread of Magisk's stable releases.
+- `#martitos4` Martitos 4.0 kernel
 - `#martitos3` Martitos 3.1 Beta kernel
 - `#martitos2` Martitos 2.1 kernel
 - `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
