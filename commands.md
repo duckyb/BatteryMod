@@ -33,6 +33,7 @@ This is a list of custom commands that you can use in our telegram group. every 
 - `#oldstock` A Kernel from an Unknown developer, based on a stock G920F kernel. Works well.
 - `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
 - `#stockflatkernel` Stock SM-G920F `boot.img` file.
+- `#titanium8` Titanium Backup PRO v8.0.0 unlocked apk
 - `#ussdapp` Play Store link for app that lets you use USSD codes
 
 ## Tips & Tricks
