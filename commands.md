@@ -48,4 +48,5 @@ This is a list of custom commands that you can use in our telegram group. every 
 ## Shop links
 - `#ebayitaly` italian ebay link
 - `#ebayunitedkingdom` UK ebay link
+- `#ebaygermany` ebay.de link
 - *Other countries coming soon*
