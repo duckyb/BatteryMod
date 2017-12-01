@@ -6,7 +6,11 @@ This solves this device's biggest problem, battery life! <br/>
 You will go from your 2550mAh battery to a 3600mAh battery, this is a 41% increase in battery life!
 
 # Join Our Community
-💬 [Telegram Invite Link](https://t.me/BatteryMod)
+<p style="text-align: center;">
+  <a href="https://t.me/BatteryMod">
+    <img src="img/telegram.png" alt="telegram invite" height="60px" width="60px"/>
+  </a>
+</p>
 
 # Main Sections
 1. [FAQ](/faq.md)
