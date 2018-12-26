@@ -2,51 +2,50 @@
 
 # Telegram Group Chat Commands
 
-This is a list of custom commands that you can use in our telegram group. every commands starts with `#` and is followed by a `keyword`. <br/>
-- `/extra list` to link an _unordered_ list of all commands in the chat.
+This is a list of custom commands that you can use in our telegram group. every commands starts with `/give` and is followed by a `keyword`. <br/>
 
 ## Guide Links
-- `#guide` This guide's home page.
-- `#guidecommands` This page!
-- `#guidecalibration` The guide's calibration methods page.
-- `#guidefaq` This guide's FAQ page.
-- `#guidegallery` This guide's gallery page.
-- `#guidelinks` This guide's download links page.
-- `#guidetips` This guide's Tips & Tricks page.
+- `/g guide` This guide's home page.
+- `/g guidecommands` This page!
+- `/g guidecalibration` The guide's calibration methods page.
+- `/g guidefaq` This guide's FAQ page.
+- `/g guidegallery` This guide's gallery page.
+- `/g guidelinks` This guide's download links page.
+- `/g guidetips` This guide's Tips & Tricks page.
 
 ## File downloads
-- `#autocalibration` App to run lukas calibration method automagically.
-- `#fixwifi` You need this if your device forgets wifi passwords after reboot.
-- `#healthservicetibkp` Titanium Backup of *Samsung Health Service*
-- `#lkernel` LKernel by Andrea
-- `#luckypatcher` Download link for the latest version of Lucky Patcher (from Uptown)
-- `#kiboi` Kiboi 2.7.1 for touchwiz
-- `#kiboiaosp` Kiboi 3.0 for revolution remix (aosp) roms
-- `#magiskbeta` XDA Thread of Magisk's beta releases.
-- `#magiskstable` XDA Thread of Magisk's stable releases.
-- `#martitos4` Martitos 4.0 kernel
-- `#martitos3` Martitos 3.1 Beta kernel
-- `#martitos2` Martitos 2.1 kernel
-- `#mtweakstibkp` Titanium Backup of Kiboi's custom MTWeaks app with modules.
-- `#note8apps` Note8 apps flashable zip by Alexis.
-- `#odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
-- `#oldstock` A Kernel from an Unknown developer, based on a stock G920F kernel. Works well.
-- `#seandroid` File to remove "Kernel is not seandroid enforcing" text.
-- `#stockflatkernel` Stock SM-G920F `boot.img` file.
-- `#titanium8` Titanium Backup PRO v8.0.0 unlocked apk
-- `#ussdapp` Play Store link for app that lets you use USSD codes
+- `/g autocalibration` App to run lukas calibration method automagically.
+- `/g fix wifi` You need this if your device forgets wifi passwords after reboot.
+- `/g healthservice titanium backup` Titanium Backup of *Samsung Health Service*
+- `/g lkernel` LKernel by Andrea
+- `/g lucky patcher` Download link for the latest version of Lucky Patcher (from Uptown)
+- `/g kiboi` Kiboi 2.7.1 for touchwiz
+- `/g kiboi aosp` Kiboi 3.0 for revolution remix (aosp) roms
+- `/g magisk beta` XDA Thread of Magisk's beta releases.
+- `/g magisk stable` XDA Thread of Magisk's stable releases.
+- `/g martitos 4` Martitos 4.0 kernel
+- `/g martitos 3` Martitos 3.1 Beta kernel
+- `/g martitos 2` Martitos 2.1 kernel
+- `/g mtweaks titanium backup` Titanium Backup of Kiboi's custom MTWeaks app with modules.
+- `/g note8apps` Note8 apps flashable zip by Alexis.
+- `/g odexlite` XDA Thread of the Odexlite's ROM. The recommended rom for the best battery life.
+- `/g oldstock` A Kernel from an Unknown developer, based on a stock G920F kernel. Works well.
+- `/g seandroid` File to remove "Kernel is not seandroid enforcing" text.
+- `/g stock flat kernel` Stock SM-G920F `boot.img` file.
+- `/g titanium 8` Titanium Backup PRO v8.0.0 unlocked apk
+- `/g ussdapp` Play Store link for app that lets you use USSD codes
 
 ## Tips & Tricks
-- `#calibration` classic battery calibration method.
-- `#fixgap` guide on removing the gap from the back cover.
-- `#hardstatsreset` long step-by-step guide on resetting your battery stats.
-- `#lukascalibration` calibration method by lukas
-- `#securestorage` quick guide on fixing device forgetting wifi passwords.
-- `#statsbin` short guide on resetting the battery stats.
-- `#terminalreset` resettings battery stats by terminal command.
+- `/g calibration` classic battery calibration method.
+- `/g fix gap` guide on removing the gap from the back cover.
+- `/g hard stats reset` long step-by-step guide on resetting your battery stats.
+- `/g lukas calibration` calibration method by lukas
+- `/g secure storage` quick guide on fixing device forgetting wifi passwords.
+- `/g stats bin` short guide on resetting the battery stats.
+- `/g terminal reset` resettings battery stats by terminal command.
 
 ## Shop links
-- `#ebayitaly` italian ebay link
-- `#ebayunitedkingdom` UK ebay link
-- `#ebaygermany` ebay.de link
+- `/g ebay it` italian ebay link
+- `/g ebay uk` UK ebay link
+- `/g ebay de` ebay.de link
 - *Other countries coming soon*
