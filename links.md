@@ -37,6 +37,7 @@ This kernel requires the *MTweaks* app to be installed, and the custom modules t
 **Name**: Martitos Kernel <br/>
 **Author**: Antonio Martitos <br/>
 **Download**: Type `#martitos4` in our group to receive the file <br/>
+**Note:** There is a new version of this kernel called `#martitos 15` <br/>
 
 - [✔️] 100% stuck bug fixed
 - [✔️] 1% stuck bug fixed
